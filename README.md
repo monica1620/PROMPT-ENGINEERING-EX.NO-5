@@ -5,6 +5,9 @@
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
+ChatGPT (by OpenAI) – Used to generate and compare responses for different prompting patterns across multiple test scenarios.
+
+GitHub Copilot (by GitHub) – Assisted in documentation formatting and structured content preparation.
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -34,5 +37,8 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+
+[EXP5_Prompting_Patterns_Report.docx](https://github.com/user-attachments/files/25566926/EXP5_Prompting_Patterns_Report.docx)
+
 
 # RESULT: The prompt for the above said problem executed successfully
